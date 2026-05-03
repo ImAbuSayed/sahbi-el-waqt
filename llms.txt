@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي روحي تشتاق إليك
+> نور قلبي دائمًا بين يديك
+> أبحث عنك في صمت الليالي
+> تعالي فالعشق ينادي عليك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
