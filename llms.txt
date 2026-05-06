@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sahbi-el-waqt/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Sahbi El Waqt](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Music Licensing for Sahbi El Waqt](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
